@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-submitted-paper-with-prof-baosen-zhang-resource-allocation-in-electricity-markets-with-budget-constrained-customers-to-ieee-control-systems-letters-and-ieee-cdc-2026-arxiv-2603-20277",
+            },},{id: "news-submitted-paper-with-prof-baosen-zhang-resource-allocation-in-electricity-markets-with-budget-constrained-customers-to-ieee-control-systems-letters-and-ieee-cdc-2026-arxiv-2603-20277",
           title: 'Submitted paper with Prof. Baosen Zhang: “Resource Allocation in Electricity Markets with Budget...',
           description: "",
           section: "News",},{id: "news-awarded-the-nsf-graduate-research-fellowship-and-doe-computational-science-graduate-fellowship-for-research-on-optimization-methods-for-ai-workloads-and-electricity-market-integration",

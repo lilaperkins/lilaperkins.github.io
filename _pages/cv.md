@@ -9,16 +9,11 @@ cv_format: rendercv # options: rendercv, jsonresume
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 ---
 
-<div class="cv-pdf-container" style="width: 100%; height: 90%; margin-top: 1rem;">
+<div style="width: 100%; height: 90vh; margin-top: 1rem;">
   <iframe
-    src="{{ page.cv_pdf }}"
+    src="https://docs.google.com/viewer?url={{ site.url }}{{ page.cv_pdf }}&embedded=true"
     width="100%"
     height="100%"
-    frameborder="0"
     style="border: none; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-    <p>
-      Your browser doesn't support embedded PDFs.
-      <a href="{{ page.cv_pdf }}">Download the PDF instead.</a>
-    </p>
   </iframe>
 </div>

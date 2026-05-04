@@ -20,7 +20,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a first-year PhD student in Applied Math at the University of Washington advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/) (Department of Electrical and Computer Engineering). I am generally intersted and optimization and computational mathematics applied to power systems. 
+I am a first-year PhD student in Applied Math at the University of Washington advised by [Prof. Baosen Zhang](https://zhangbaosen.github.io/) (Department of Electrical and Computer Engineering). I am generally intersted in optimization and computational mathematics applied to power systems. 
 
 Previously, I did a BS in Honors Mathematics from the University of Michigan, with a minor in Complex Systems, and also studied at the Budapest Semesters in Mathematics program. 
 

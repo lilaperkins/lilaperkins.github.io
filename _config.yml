@@ -206,6 +206,7 @@ exclude:
   - vendor
   - _teachings/
   - _pages/profiles.md
+  - _includes/cv/
 keep_files:
   - CNAME
   - .nojekyll

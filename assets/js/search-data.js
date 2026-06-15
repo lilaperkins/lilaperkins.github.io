@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-and-accepting-the-doe-computational-science-graduate-fellowship",
           title: 'Awarded (and accepting) the DOE Computational Science Graduate Fellowship.',
           description: "",
+          section: "News",},{id: "news-awarded-the-uw-clean-energy-institute-graduate-fellowship",
+          title: 'Awarded the UW Clean Energy Institute Graduate Fellowship.',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
